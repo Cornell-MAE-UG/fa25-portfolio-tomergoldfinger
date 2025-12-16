@@ -13,7 +13,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : Tomer Goldfinger
 description              : Tomer Goldfinger- Projects and CV 
-baseurl                  : "https://github.com/Cornell-MAE-UG/fa25-portfolio-tomergoldfinger.git" # Set this to your repo name 
+baseurl                  : "fa25-portfolio-tomergoldfinger" # Set this to your repo name 
 
 # Theme and Style
 theme: jekyll-theme-minimal
