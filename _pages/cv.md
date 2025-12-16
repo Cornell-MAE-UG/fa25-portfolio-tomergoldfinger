@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: default
 title: <Your Name> - Curriculum Vitae
 permalink: /cv/
@@ -71,4 +71,4 @@ Aspiring engineering student with a strong foundation in.... Passionate about ..
 #### References
 Available upon request.
 
----
+--- -->

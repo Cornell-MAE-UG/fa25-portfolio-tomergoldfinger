@@ -1,16 +1,19 @@
 ---
 layout: default
-title: <Your Name>
+title: Tomer Goldfinger
 ---
 
 ## About Me
 
 
-![Profile Picture]({{ "assets/images/profile-pic.jpg" | relative_url }}){: class="profile-image"}
+![Profile Picture]({{ "assets/images/Profile_Picture.jpeg" | relative_url }}){: class="profile-image"}
 
  
-My name is {{ site.name }}, and I am [your pitch paragraph about your passions, knowledge and interestst.] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut nec accumsan leo. Pellentesque ornare orci enim, vitae vestibulum nibh rutrum in. Donec pharetra risus nec ipsum fringilla, et mattis tortor auctor. Duis tortor ante, posuere ut odio a, scelerisque interdum purus. Aenean faucibus luctus est, sed bibendum tellus. Nulla et magna urna. Morbi a ipsum sollicitudin, rhoncus risus volutpat, ultricies nunc. Quisque mollis finibus ante id imperdiet. Quisque vehicula elit sit amet felis facilisis fermentum.
+My name is Tomer Goldfinger, and I am a senior at Cornell University, studying mechanical engineering. Mainly, I focus on studying the design and development of renewable energy systems in my academic and extracurricular pursuits.
 
-Aenean tincidunt aliquam arcu, in euismod dui dapibus eu. In placerat, mi et ultrices consequat, quam ligula cursus mauris, in semper neque nibh at est. Maecenas hendrerit dignissim porta. Phasellus nec fringilla dolor. Etiam efficitur nisi sit amet velit pharetra feugiat. Etiam ultrices turpis at leo semper, eleifend scelerisque neque malesuada. Aliquam molestie congue rhoncus. Donec blandit neque dolor, nec tristique mi pretium ac. Mauris tincidunt ullamcorper magna, nec pellentesque mi sagittis quis.
+MAE 4272 was a perfect opportunity to gain hands on experience in learning about this. In this course, Fluids and Heat Transfer Laboratory, we engaged in project and lab based analysis of harvesting energy through wind turbine blades, as well as studying the thermodynamics and mechanics of a forklift engine. 
 
+I am also cery curious about the way which engineering systems interact with the surrounding world. To supplement this interest, I took the course MAE 4300: Engineers and Society, where I engaged in an interesting ethical analysis of Boeing's responsibility in the 737 Max plane crashes. 
+
+ Check out  my projects to learn more!
 Take a look at <a href="{{ "/projects/" | relative_url }}">my projects</a> and <a href="{{ "/cv/" | relative_url }}">CV</a>.
