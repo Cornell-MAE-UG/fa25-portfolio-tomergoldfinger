@@ -7,7 +7,7 @@ image: /assets/images/Blade.png
 ---
 ## Introduction
 
-Our goal for this project was to design a wind turbine blade to extract power from oncoming wind in a wind tunnel. This project involved an analysis of the fluid mechanics on the blade, a structural analysis of the blade, manufacturing the blade, and an analysis of the overall performance of the blade. 
+Our goal for this project was to design a wind turbine blade to extract power from oncoming wind in a wind tunnel. This project involved an analysis of the fluid mechanics on the blade, a structural analysis of the blade, manufacturing the blade, and an analysis of the overall performance of the blade. This was done in order to teach students about fluids and mechanics of blade design, as well as the overall design and testing process.
 
 ## Key Constraints
 We had to implement a few key constraints on the design, operation, and conditions of the blade in order to make sure that the blade would operate safely and in a controlled testing environment. 
