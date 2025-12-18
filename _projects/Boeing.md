@@ -32,8 +32,6 @@ image: /assets/images/boeing.jpg
 </head>
 <body>
 
-  <h1>Ethical Analysis of the Boeing 737 MAX Crashes</h1>
-
   <p>
     The Boeing 737 MAX crashes represent a useful ethical analysis for students. The case illustrates how technical design decisions, organizational behavior, and regulatory structures interact in engineering systems with direct consequences for human safety. By applying the ASME Code of Ethics and examining facts, constraints, and  decision, the analysis demonstrates that ethical responsibility in engineering extends beyond technical compliance and requires sustained attention to complex social interactions with competing stakeholder interests.
   </p>
